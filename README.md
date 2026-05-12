@@ -43,13 +43,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanganh04-11&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganh04-11&layout=compact" alt="Top languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanganh04-11" alt="GitHub streak" />
