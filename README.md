@@ -35,7 +35,7 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,java,linux,spring,sass" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,linux,java,spring" alt="skills" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/>
 </p>
 
